@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "508351834089",
+    "project_id": "vegas-exciting-spot",
+    "storage_bucket": "vegas-exciting-spot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508351834089:android:40048a4d6f11f5c7ae4d78",
+        "android_client_info": {
+          "package_name": "com.alaaclips.vegasexcitingspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508351834089-hsu3gi070ff0leefjkle20rgvdfrelu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q4niOhUy9ljhjileMTm8P3DNYhdW76Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508351834089-hsu3gi070ff0leefjkle20rgvdfrelu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508351834089:android:8eb338cff825520aae4d78",
+        "android_client_info": {
+          "package_name": "com.vegasexcitingspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508351834089-hsu3gi070ff0leefjkle20rgvdfrelu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q4niOhUy9ljhjileMTm8P3DNYhdW76Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508351834089-hsu3gi070ff0leefjkle20rgvdfrelu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
